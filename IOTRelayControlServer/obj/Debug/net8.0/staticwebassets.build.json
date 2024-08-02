@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mz6GOwlNzFZy8JZkhUgkHDVvZjyPlo2ekWK8hrJ5Loo=",
+  "Source": "IOTRelayControlServer",
+  "BasePath": "_content/IOTRelayControlServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

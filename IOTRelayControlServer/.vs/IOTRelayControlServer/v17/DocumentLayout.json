@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Eren\\Projeler\\Projects\\IOTRelayControl\\IOTRelayControlServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0EEDAC-3ED3-4234-939A-439C79E031E2}|IOTRelayControlServer.csproj|f:\\eren\\projeler\\projects\\iotrelaycontrol\\iotrelaycontrolserver\\controllers\\sensorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0EEDAC-3ED3-4234-939A-439C79E031E2}|IOTRelayControlServer.csproj|solutionrelative:controllers\\sensorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0EEDAC-3ED3-4234-939A-439C79E031E2}|IOTRelayControlServer.csproj|f:\\eren\\projeler\\projects\\iotrelaycontrol\\iotrelaycontrolserver\\services\\sensorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0EEDAC-3ED3-4234-939A-439C79E031E2}|IOTRelayControlServer.csproj|solutionrelative:services\\sensorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0EEDAC-3ED3-4234-939A-439C79E031E2}|IOTRelayControlServer.csproj|f:\\eren\\projeler\\projects\\iotrelaycontrol\\iotrelaycontrolserver\\repositories\\sensorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0EEDAC-3ED3-4234-939A-439C79E031E2}|IOTRelayControlServer.csproj|solutionrelative:repositories\\sensorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0EEDAC-3ED3-4234-939A-439C79E031E2}|IOTRelayControlServer.csproj|f:\\eren\\projeler\\projects\\iotrelaycontrol\\iotrelaycontrolserver\\repositories\\isensorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0EEDAC-3ED3-4234-939A-439C79E031E2}|IOTRelayControlServer.csproj|solutionrelative:repositories\\isensorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0EEDAC-3ED3-4234-939A-439C79E031E2}|IOTRelayControlServer.csproj|f:\\eren\\projeler\\projects\\iotrelaycontrol\\iotrelaycontrolserver\\services\\isensorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0EEDAC-3ED3-4234-939A-439C79E031E2}|IOTRelayControlServer.csproj|solutionrelative:services\\isensorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0EEDAC-3ED3-4234-939A-439C79E031E2}|IOTRelayControlServer.csproj|f:\\eren\\projeler\\projects\\iotrelaycontrol\\iotrelaycontrolserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0EEDAC-3ED3-4234-939A-439C79E031E2}|IOTRelayControlServer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Eren\\Projeler\\Projects\\IOTRelayControl\\IOTRelayControlServer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Eren\\Projeler\\Projects\\IOTRelayControl\\IOTRelayControlServer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:47:35.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SensorService.cs",
+              "DocumentMoniker": "F:\\Eren\\Projeler\\Projects\\IOTRelayControl\\IOTRelayControlServer\\Services\\SensorService.cs",
+              "RelativeDocumentMoniker": "Services\\SensorService.cs",
+              "ToolTip": "F:\\Eren\\Projeler\\Projects\\IOTRelayControl\\IOTRelayControlServer\\Services\\SensorService.cs",
+              "RelativeToolTip": "Services\\SensorService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:31:53.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISensorService.cs",
+              "DocumentMoniker": "F:\\Eren\\Projeler\\Projects\\IOTRelayControl\\IOTRelayControlServer\\Services\\ISensorService.cs",
+              "RelativeDocumentMoniker": "Services\\ISensorService.cs",
+              "ToolTip": "F:\\Eren\\Projeler\\Projects\\IOTRelayControl\\IOTRelayControlServer\\Services\\ISensorService.cs",
+              "RelativeToolTip": "Services\\ISensorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:21:21.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SensorRepository.cs",
+              "DocumentMoniker": "F:\\Eren\\Projeler\\Projects\\IOTRelayControl\\IOTRelayControlServer\\Repositories\\SensorRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\SensorRepository.cs",
+              "ToolTip": "F:\\Eren\\Projeler\\Projects\\IOTRelayControl\\IOTRelayControlServer\\Repositories\\SensorRepository.cs",
+              "RelativeToolTip": "Repositories\\SensorRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:12:47.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISensorRepository.cs",
+              "DocumentMoniker": "F:\\Eren\\Projeler\\Projects\\IOTRelayControl\\IOTRelayControlServer\\Repositories\\ISensorRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ISensorRepository.cs",
+              "ToolTip": "F:\\Eren\\Projeler\\Projects\\IOTRelayControl\\IOTRelayControlServer\\Repositories\\ISensorRepository.cs",
+              "RelativeToolTip": "Repositories\\ISensorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:08:28.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SensorsController.cs",
+              "DocumentMoniker": "F:\\Eren\\Projeler\\Projects\\IOTRelayControl\\IOTRelayControlServer\\Controllers\\SensorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SensorsController.cs",
+              "ToolTip": "F:\\Eren\\Projeler\\Projects\\IOTRelayControl\\IOTRelayControlServer\\Controllers\\SensorsController.cs",
+              "RelativeToolTip": "Controllers\\SensorsController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:06:18.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

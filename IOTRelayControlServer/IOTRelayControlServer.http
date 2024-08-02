@@ -1,0 +1,6 @@
+@IOTRelayControlServer_HostAddress = http://localhost:5083
+
+GET {{IOTRelayControlServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
