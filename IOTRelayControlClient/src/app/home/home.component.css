@@ -1,0 +1,7 @@
+.background-danger{
+    background-color: var(--color-danger) !important;
+}
+
+.background-success{
+    background-color: var(--color-success) !important;
+}
